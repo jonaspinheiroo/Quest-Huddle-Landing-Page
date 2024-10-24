@@ -15,9 +15,9 @@ Nesse projeto consegui praticar o uso do flexbox e conceitos de responsividade. 
 
 ### Autor
 
-Jonas Pinheiro - Developer Frontend
+Jonas Pinheiro - Desenvolvedor Frontend
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-Perfil-blue)] (https://www.linkedin.com/in/jonas-pinheiro-207a63105/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-Perfil-blue)](https://www.linkedin.com/in/jonas-pinheiro-207a63105/)
 
 
 
