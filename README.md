@@ -6,7 +6,7 @@
 
 ### Aprendizado
 
-Nesse projeto consegui praticar o uso do flexbox e conceitos de responsividade. Durante o desenvolvimento da página tive dificuldade com a aplicação do hover nos ícones do footer e com a responsividade. 
+Nesse projeto consegui praticar o uso do flexbox e conceitos de responsividade. Durante o desenvolvimento da página tive dificuldade com a aplicação do hover nos ícones do footer e com a responsividade, entretanto com a pratica consegui concluir o projeto. 
 
 ### Linguagens Utilizadas
 
